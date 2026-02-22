@@ -30,10 +30,12 @@ Multi-level Pacman clone with AI-based ghost behavior and difficulty scaling.
 
 - Expanding game architecture & modular design
 - Exploring AI model integration
-- Building portfolio-grade projects
+- Building portfolio-level projects
+- Expanding knowledge in cybersecurity concepts
 
 ---
 
 ##  Contact
 
 - GitHub: https://github.com/Giannis-Stivaktakis
+- Location: Greece
