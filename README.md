@@ -8,7 +8,7 @@ Computer & Information Engineering student focused on:
 
 ---
 
-##  Featured Projects
+## Projects
 
 ###  Pacman (Java Swing)
 Multi-level Pacman clone with AI-based ghost behavior and difficulty scaling.  
