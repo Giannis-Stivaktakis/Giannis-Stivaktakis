@@ -16,14 +16,15 @@ Multi-level Pacman clone with AI-based ghost behavior and difficulty scaling.
 
 ---
 
-##  Tech Stack
+##  Technical Skills
 
 - Java
 - Python
 - JavaScript
-- Git
 - SQL
-
+- Game Logic Design
+- REST APIs
+  
 ---
 
 ##  Currently Working On
