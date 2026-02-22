@@ -1,22 +1,22 @@
-# Hi, I'm Giannis 👋
+# Hi, I'm Giannis
 
 Computer & Information Engineering student focused on:
 
-- 🧠 Software Development
-- 🔐 Cybersecurity
-- 🤖 AI & Machine Learning
+-  Software Development
+-  Cybersecurity
+-  AI & Machine Learning
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🟡 Pacman (Java Swing)
+###  Pacman (Java Swing)
 Multi-level Pacman clone with AI-based ghost behavior and difficulty scaling.  
 🔗 https://github.com/Giannis-Stivaktakis/pacman
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Java
 - Python
@@ -26,7 +26,7 @@ Multi-level Pacman clone with AI-based ghost behavior and difficulty scaling.
 
 ---
 
-## 📚 Currently Working On
+##  Currently Working On
 
 - Expanding game architecture & modular design
 - Exploring AI model integration
@@ -34,6 +34,6 @@ Multi-level Pacman clone with AI-based ghost behavior and difficulty scaling.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - GitHub: https://github.com/Giannis-Stivaktakis
