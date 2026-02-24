@@ -10,8 +10,22 @@ Computer & Information Engineering student focused on:
 
 ## Projects
 
-###  Pacman (Java Swing)
-Multi-level Pacman clone with AI-based ghost behavior and difficulty scaling.  
+### Xeri Multiplayer REST API (PHP & MySQL)
+
+REST-style backend API implementation of the Greek card game Xeri.
+
+- Token-based authentication
+- Multiplayer state management
+- MySQL
+
+🔗 https://github.com/Giannis-Stivaktakis/xeri_api
+
+---
+
+### Pacman (Java Swing)
+
+- Multi-level Pacman clone with AI-based ghost behavior and difficulty scaling.
+
 🔗 https://github.com/Giannis-Stivaktakis/pacman
 
 ---
