@@ -40,7 +40,6 @@ Multi-level Pacman clone with AI-based ghost behavior and difficulty scaling.
 - Java
 - PHP
 - Python
-- C++
 - JavaScript / HTML / CSS
 - SQL
 
