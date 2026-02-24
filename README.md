@@ -24,20 +24,35 @@ REST-style backend API implementation of the Greek card game Xeri.
 
 ### Pacman (Java Swing)
 
-- Multi-level Pacman clone with AI-based ghost behavior and difficulty scaling.
+Multi-level Pacman clone with AI-based ghost behavior and difficulty scaling.
+- Collision detection
+- Score & lives management
+- Difficulty scaling
+- Event-driven UI architecture
 
 🔗 https://github.com/Giannis-Stivaktakis/pacman
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
+**Languages**
 - Java
+- PHP
 - Python
-- JavaScript
+- C++
+- JavaScript / HTML / CSS
 - SQL
+
+**Backend & APIs**
+- REST API Design
+- Token-based Authentication
+- MySQL
+
+**Software Engineering**
+- Object-Oriented Programming
+- Modular Architecture
 - Game Logic Design
-- REST APIs
   
 ---
 
